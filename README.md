@@ -7,10 +7,12 @@ Installation
 ============
 
 To use this script, open the terminal window (LXTerminal) and then type:
+```bash
 git clone https://github.com/whitewitch/ArduinoIDE_RPi_Installer.git
 cd ArduinoIDE_RPi_Installer
 chmod +x installer.sh
 ./installer.sh
+```
 
 FAQ
 ===
