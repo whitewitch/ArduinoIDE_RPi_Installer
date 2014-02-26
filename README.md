@@ -33,5 +33,5 @@ At your home folder. (```/home/pi```)
 Contact
 ===
 
-If you have any problem, feel free to contact me via Email: whiteiwtchdev@gmx.com .
+If you have any problem, feel free to contact me via Email: whitewitchdev@gmx.com .
 
