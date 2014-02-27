@@ -3,11 +3,11 @@
 #arduinoide-rpi-installer
 #-----------------------------
 #Author:       WhiteWitch <http://www.github.com/whitewitch>, <whitewitchdev@gmx.com>
-#Filename:     arduino.sh
+#Filename:     installer.sh
 #Version:      0.2
 #License:      MIT License
 #Description:  Intall Arduino IDE on the Raspberry Pi.
-#	           Just run ./arduino.sh and wait a few minutes.
+#	           Just run ./installer.sh and wait a few minutes.
 #-----------------------------
 
 version=1.0.5
