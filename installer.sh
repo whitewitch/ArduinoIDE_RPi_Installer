@@ -28,7 +28,7 @@ for i in $(find . -name "librxtxSerial.so") ; do cp /usr/lib/jni/librxtxSerial.s
 for i in $(find . -name "RXTXcomm.jar") ; do cp /usr/share/java/RXTXcomm.jar $i ; done
 cp /usr/bin/avrdude /home/pi/arduino-$version/hardware/tools/avrdude
 cp /etc/avrdude.conf /home/pi/arduino-$version/hardware/tools/avrdude.conf
-mv ~/arduino-1.0.5/hardware/tools/avr/bin ~/arduino-1.0.5/hardware/tools/avr/bin_old
+mv ~/arduino-$version/hardware/tools/avr/bin ~/arduino-$version/hardware/tools/avr/bin_old
 
 echo "Would you like to make a Desktop shortcut? [Y/n]"
 read shortcut
